@@ -6,8 +6,8 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TwojNick&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TwojNick&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=konx8&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konx8&layout=compact)
 
 
 <!--
