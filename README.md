@@ -26,16 +26,17 @@
 
 ---
 
-### 📚 Currently Learning
-- Advanced Spring Security
-- React fundamentals
-- WebSocket communication in Spring
-
+### 🧠 Currently Learning
+- 🌱 Advanced Spring Security
+- ⚛ React 
+- 🔌 WebSocket communication in Spring
+- 🐳 Expanding my skills in Docker and Kubernetes
+- Learning **Go (Golang)**  
+![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ---
 
 ### 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konrad-adamcio/)  
-📧 Email: twojemail@example.com  
 
 --
 
